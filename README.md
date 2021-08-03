@@ -9,13 +9,13 @@
 ### Installing multi-dpc
 
 ```
-$ git clone https://github.com/mkdirlove/multi-dpc
+ git clone https://github.com/mkdirlove/multi-dpc
 ```
 ```
-$ cd multi-dpc
+ cd multi-dpc
 ```
 ```
-$ python3 multi-dpc.py
+ python3 multi-dpc.py
 ```
 
 ### Credits to the following owners of deface pages
