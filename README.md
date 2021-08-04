@@ -21,6 +21,6 @@
 ### Credits to the following owners of deface pages
 
 ```
-Mr.D347H - GR1MR34P3R - Chaos Cyber Hood - Anonymouse - CLOWNSEC - Mr.GrinXz - MR TOM
+   Mr.D347H - GR1MR34P3R - Chaos Cyber Hood - Anonymouse - CLOWNSEC - Mr.GrinXz - MR TOM
 ```
 
