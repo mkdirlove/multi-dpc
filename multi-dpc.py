@@ -48,7 +48,7 @@ def MrD347H():
   print(" ")
   time.sleep(0.1)
   print(" Enter you leet codename")
-  codename = input("» ")
+  codename = input(" » ")
   print(" ")
   time.sleep(0.1)
   print(" Enter your message for the website")
@@ -347,6 +347,9 @@ expand();*/
   os.system("clear")
   print(banner)
   print(" Your deface page is generated as: deface.html")
+  print(" For TERMUX users, please use this command to copy the deface page to your sdcard.")
+  print(" $ termux-setup-storage && cp -r deface.html /sdcard")
+  print(" ")
   print(" Thank you for using my simple tool.")
   fo.close()
 
@@ -522,6 +525,9 @@ def gr1mr34p3r():
   os.system("clear")
   print(banner)
   print(" Your deface page is generated as: deface.html")
+  print(" For TERMUX users, please use this command to copy the deface page to your sdcard.")
+  print(" $ termux-setup-storage && cp -r deface.html /sdcard")
+  print(" ")
   print(" Thank you for using my simple tool.")
   fo.close()
 
@@ -916,6 +922,9 @@ typewriter.typeStrin­g('Hello Admin')
   os.system("clear")
   print(banner)
   print(" Your deface page is generated as: deface.html")
+  print(" For TERMUX users, please use this command to copy the deface page to your sdcard.")
+  print(" $ termux-setup-storage && cp -r deface.html /sdcard")
+  print(" ")
   print(" Thank you for using my simple tool.")
   fo.close()
 
@@ -1230,7 +1239,11 @@ expand();*/
 
   print("")
   print(banner)
-
+  print(" Your deface page is generated as: deface.html")
+  print(" For TERMUX users, please use this command to copy the deface page to your sdcard.")
+  print(" $ termux-setup-storage && cp -r deface.html /sdcard")
+  print(" ")
+  print(" Thank you for using my simple tool.")
   fo.close()
 
 # CLOWNSEC deface page
@@ -1387,6 +1400,9 @@ PinoyClownSec Â© Alright Reserved 2018
   os.system("clear")
   print(banner)
   print(" Your deface page is generated as: deface.html")
+  print(" For TERMUX users, please use this command to copy the deface page to your sdcard.")
+  print(" $ termux-setup-storage && cp -r deface.html /sdcard")
+  print(" ")
   print(" Thank you for using my simple tool.")
   fo.close()
 
@@ -1567,6 +1583,9 @@ beginneon()
   os.system("clear")
   print(banner)
   print(" Your deface page is generated as: deface.html")
+  print(" For TERMUX users, please use this command to copy the deface page to your sdcard.")
+  print(" $ termux-setup-storage && cp -r deface.html /sdcard")
+  print(" ")
   print(" Thank you for using my simple tool.")
   fo.close()
 
@@ -1645,6 +1664,9 @@ height: 450px;
   os.system("clear")
   print(banner)
   print(" Your deface page is generated as: deface.html")
+  print(" For TERMUX users, please use this command to copy the deface page to your sdcard.")
+  print(" $ termux-setup-storage && cp -r deface.html /sdcard")
+  print(" ")
   print(" Thank you for using my simple tool.")
   fo.close()
 
